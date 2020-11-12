@@ -12,10 +12,10 @@ Ton aventure du developpeur commence ici...
 
 ---
 
-**Sommaire :**
+__**Sommaire :**__
 * Les bases "Terminal"
 
-**Resultats**
+__**Resultats**__
 | Theme | Note sur | Garde |
 --- | ---| --- |
 | Les bases "Termianle" | **En cours** | |
