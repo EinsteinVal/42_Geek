@@ -2,7 +2,7 @@
 <img src="logo_onegeek.png" alt="Logo OneGeek" />
 </p>
 
-#42ONEGEEK
+# 42ONEGEEK
 
 ---
 
