@@ -32,5 +32,5 @@ __**Resultats**__
 | Theme | Note sur | Garde |
 --- | ---| --- |
 | Les bases de GitHub | **En cours** | |
-| Les bases "Termianle" | **No Strat** | |
-| Les commandes de base : SHELL | **No Start** | |
+| Les bases "Termianle" | **En cours** | |
+| Les commandes de base : SHELL | **En cours** | |
