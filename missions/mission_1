@@ -39,25 +39,26 @@ $>cat -e auteur
 xlogin$
 - Réfléchis. Par pitié, par Odin ! Nom d’une pipe.
 
-Realiser comme cela :
+Realiser comme cela : 
 **********************************************************************************************
 $> 42_Geek git:(master)
 total 7
 ./mission_1
-drwxr-xr-x  3 XXXXXXXXXX  XXX 96 17 nov 10:29 exo_1
-drwxr-xr-x  3 XXXXXXXXXX  XXX 96 17 nov 10:29 exo_2
-drwxr-xr-x  3 XXXXXXXXXX  XXX 96 17 nov 10:29 exo_3
+drwxr-xr-x  X XXXXXXXXXX  XXX 4 25 nov 10:42 exo_1
+drwxr-xr-x  X XXXXXXXXXX  XXX 3 26 nov 10:42 exo_2
+drwxr-xr-x  X XXXXXXXXXX  XXX 2 27 nov 10:42 exo_3
 
 ./mission_1/exo_1
--rw-r--r--  1 einsteinval  staff  2507 17 nov 10:29 text_1
+-rw-r--r--  X XXXXXXXXXX  XXX 100 10 jan 12:29 text_1
 
 ./mission_1/exo_2
--rw-r--r--  1 einsteinval  staff  2507 17 nov 10:29 text_2
--rw-r--r--  1 einsteinval  staff  2507 17 nov 10:29 text_2bis
+-rw-r--r--  X XXXXXXXXXX  XXX 42 28 mai 15:24 text_2
+-rw-r--r--  X XXXXXXXXXX  XXX 42 29 mai 15:24 text_2bis
 
 ./mission_1/exo_3
--rw-r--r--  1 einsteinval  staff  2507 17 nov 10:29 text_3
+-rw-r--r--  X XXXXXXXXXX  XXX 4242 30 sept 22:42 text_3
 
+Infos : Ne prends pas en compte avec XXXXXX
 
 **********************************************************************************************
 Une fois terminé, push au GH et préviens la Moulinonegeek...
