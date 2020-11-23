@@ -1,0 +1,64 @@
+Bonjour Jeune Apprenti,
+
+Voici ta première mission : Découvrir l'utilisation du terminal et les commandes Sheel, avec via GitHub (Les basiques)
+
+D'abord, trouver les informations sur "terminal" (Invité de commande pour PC / Terminal pour Mac), aussi les commandes de base comme :
+cd - dir - mkdir - rmdir - del - copy - ren
+
+Une fois que tu as réunis les informations, et surtout comprendre à quoi sert ces commandes (Google est ton meilleur ami),
+tu pourras alors commencer ta première mission :
+
+** 1er Etape: Installer le dossier GitHub "42_Geek" via : https://github.com/EinsteinVal/42_Geek.git (A utiliser souvent avec le terminal)
+
+Souviens toi toujours ces principaux commandes :
+- git clone
+- git add / rm
+- git commit
+- git push
+
+Dans ce dossier, tu y travailleras au long de formation 42_Geek, avec des nouvelles missions.
+
+** 2ème Etape: Crèer un dossier dasn ce repertoire, nomme "mission_1"
+
+Voici les objectifs de mission_1 :
+- Creer des dossiers et les fichiers demandés
+- Utilisation des commandes basiques Sheel
+- Utilisation des commandes de base GitHut
+
+Voici les consignes :
+- Attention aux droits de tes fichiers et dossiers.
+- Tu dois suivre la procédure de rendu pour tous tes exercices.
+- Ce projet sera corrigé uniquement par Moulinonegeek. Une fois n’est pas coutume, il n’y aura pas de peer-évaluation pour ce projet. Tu dois donc respecter les noms des fichiers et de fonctions au caractère prèt.
+- Moulinonegeek est très stricte dans sa notation. Il est impossible de discuter de sa note avec elle. Soyez d’une rigueur irréprochable pour éviter les surprises.
+- Commence par lire le sujet en entier. Lis également attentivement les exemples.
+- Tu ne dois laisser dans ton répertoire aucun autre fichier que ceux explicitement specifiés par les énoncés des exercices.
+- Tu dois rendre, à la racine de votre dépôt de rendu, un fichier auteur contenant ton login suivi d’un ’\n’ :
+$> -e auteur
+xlogin$
+- Réfléchis. Par pitié, par Odin ! Nom d’une pipe.
+
+Realiser comme cela, avec le beau outil CACLS : (Attention le format est différent sur DOS, l'impostant est de savoir donner les permissions, de modifer la date, de tenir en compte la taille du fichier)
+**********************************************************************************************
+$> 42_Geek git:(master)
+total 7
+./mission_1
+-rwxr-xr-x  X XXXXXXXXXX  XXX 4 25 nov 10:42 exo_1
+-rwxr-xr-x  X XXXXXXXXXX  XXX 3 26 nov 10:42 exo_2
+-rwxr-xr-x  X XXXXXXXXXX  XXX 2 27 nov 10:42 exo_3
+
+./mission_1/exo_1
+-rw-r--r--  X XXXXXXXXXX  XXX 100 10 jan 12:29 text_1
+
+./mission_1/exo_2
+-rw-r--r--  X XXXXXXXXXX  XXX 42 28 mai 15:24 text_2
+-rw-r--r--  X XXXXXXXXXX  XXX 42 29 mai 15:24 text_2bis
+
+./mission_1/exo_3
+-rw-r--r--  X XXXXXXXXXX  XXX 4242 30 sept 22:42 text_3
+
+Infos : Ne prends pas en compte avec XXXXXX
+
+**********************************************************************************************
+
+Une fois terminé, push au GH et préviens la Moulinonegeek...
+Oh zuuutt, c'est qui la Moulinonegeek, c'est un de nous qui verifiera et validera tes missions, aussi ta prograssion
