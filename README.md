@@ -29,8 +29,8 @@ __**Sommaire :**__
 
 
 __**Resultats**__
-| Theme | Note sur | Garde |
+| Theme | Note sur | Garde | Louis | Cyrus | Lenka |
 --- | ---| --- |
-| Les bases de GitHub | **En cours** | |
-| Les bases "Termianle" | **En cours** | |
-| Les commandes de base : SHELL | **En cours** | |
+| Les bases de GitHub | **En cours** | | | | |
+| Les bases "Termianle" | **En cours** | | | | |
+| Les commandes de base : SHELL | **En cours** | | | | |
