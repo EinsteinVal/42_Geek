@@ -1,9 +1,11 @@
 Bonjour Jeune Apprenti,
 
-Voici ta première mission : Découvrir l'utilisation du terminal et les commandes Sheel, avec via GitHub (Les basiques)
+Bravo pour ta dernière mission, c'était un simple test de compétence...
+
+Voici ta première vraie mission : Découvrir l'utilisation du terminal et les commandes Sheel, avec via GitHub (Les basiques)
 
 D'abord, trouver les informations sur "terminal" (Invité de commande pour PC / Terminal pour Mac), aussi les commandes de base comme :
-cd - dir - mkdir - rmdir - del - copy - ren
+cd - ls - mkdir - rm - cp - mv - ln
 
 Une fois que tu as réunis les informations, et surtout comprendre à quoi sert ces commandes (Google est ton meilleur ami),
 tu pourras alors commencer ta première mission :
