@@ -53,11 +53,11 @@ drwxr-xr-x  X XXXXXXXXXX  XXX 2 27 nov 10:42 exo_3
 -rw-r--r--  X XXXXXXXXXX  XXX 100 10 jan 12:29 text_1
 
 ./login/mission_1/exo_2
--rw-r--r--  X XXXXXXXXXX  XXX 42 28 mai 15:24 text_2
--rw-r--r--  X XXXXXXXXXX  XXX 42 29 mai 15:24 text_2bis
+-rw-r-xr--  X XXXXXXXXXX  XXX 42 28 mai 15:24 text_2
+-rw-r--rw-  X XXXXXXXXXX  XXX 42 29 mai 15:24 text_2bis
 
 ./login/mission_1/exo_3
--rw-r--r--  X XXXXXXXXXX  XXX 4242 30 sept 22:42 text_3
+-rw-r--r-x  X XXXXXXXXXX  XXX 4242 30 sept 22:42 text_3
 
 Infos : Ne prends pas en compte avec XXXXXX
 
